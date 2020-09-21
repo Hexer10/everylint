@@ -1,3 +1,6 @@
+## 1.0.1
+- Add `valid_regexps`
+
 ## 1.0.0+2
 
 - Formatting

@@ -21,6 +21,7 @@ linter:
     - throw_in_finally
     - unnecessary_statements
     - unrelated_type_equality_checks
+    - valid_regexps
     - always_declare_return_types
     - always_put_control_body_on_new_line
     - avoid_as
