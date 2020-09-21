@@ -1,3 +1,6 @@
+## 1.0.2
+- Fix directory structure
+
 ## 1.0.1
 - Add `valid_regexps`
 
