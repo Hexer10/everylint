@@ -1,7 +1,11 @@
-## 1.0.0
+## 1.0.0+2
 
-- Initial version, created by Stagehand
+- Formatting
 
 ## 1.0.0+1
 
 - Typo
+
+## 1.0.0
+
+- Initial version, created by Stagehand

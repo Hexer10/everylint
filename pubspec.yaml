@@ -1,6 +1,6 @@
 name: everylint
 description: A library which combines all the linter packages into a single one.
-version: 1.0.0+1
+version: 1.0.0+2
 homepage: https://github.com/Hexer10/everylint
 
 environment:

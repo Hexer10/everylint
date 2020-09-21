@@ -7,6 +7,8 @@ This package enables [all the linters][0] that are flagged with
 [![flutter](https://dart-lang.github.io/linter/lints/style-flutter.svg)](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/analysis_options_user.yaml)
 [![effective dart](https://dart-lang.github.io/linter/lints/style-effective_dart.svg)](https://github.com/tenhobi/effective_dart) and some additional ones
 
+[0]: https://dart-lang.github.io/linter/lints/
+
 ## Additional linters
 
 ```

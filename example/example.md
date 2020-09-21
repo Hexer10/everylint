@@ -4,7 +4,7 @@ First add this package to the `dev_dependencies` (check for the latest version)
 
 ```yaml
 dev_dependencies:
-  everylint: ^1.0.0+1
+  everylint: ^1.0.0+2
 ```
 
 Then include it in your `analysis_options.yaml` file:
