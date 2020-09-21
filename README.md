@@ -28,7 +28,7 @@ avoid_unused_constructor_parameters
 avoid_void_async
 leading_newlines_in_multiline_strings
 parameter_assignments
-prefer_asserts_``in_initializer_lists
+prefer_asserts_in_initializer_lists
 prefer_collection_literals
 prefer_conditional_assignment
 prefer_const_constructors
