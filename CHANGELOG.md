@@ -1,3 +1,6 @@
+## 1.0.3
+- Remove docs linter
+
 ## 1.0.2
 - Fix directory structure
 
